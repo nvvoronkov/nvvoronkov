@@ -1,5 +1,5 @@
 # musical-guacamole
-<h1 align="center">Hi there, I'm Valentina</a> 
+<h1 align="center">Hi there, I'm Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java Backend developer</h3>
 
@@ -14,12 +14,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
-![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValentinaBuddha&theme=github)
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvvoronkov&theme=github)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ValentinaBuddha)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nvvoronkov)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaBuddha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvvoronkov)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinaBuddha&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nvvoronkov&show_icons=true)  
 
-![](https://komarev.com/ghpvc/?username=your-github-ValentinaBuddha)
+![](https://komarev.com/ghpvc/?username=your-github-nvvoronkov)
