@@ -1,6 +1,6 @@
 # nvvoronkov
 <h1 align="center">Hi there, I'm Nikita</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="128"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="128" scale="1.2"/></h1>
 <h3 align="center">Java Backend developer</h3>
 
 ### 🛠 &nbsp;Languages and Tools :
